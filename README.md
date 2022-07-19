@@ -1,7 +1,7 @@
 ## Olá, sou João Vitor 👏🏻
 - 🧑🏻‍💻 Bem Vindo ao meu GitHub
 - 🖥️ Developer 
-- 📕 Uninassau  Junho/2021 - Jan/2023
+- 📕 Uninassau 
 <div>
   <a href="https://github.com/Juaumvitu4">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juaumvitu4&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
